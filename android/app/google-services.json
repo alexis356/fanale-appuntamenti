@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80545611289",
+    "project_id": "fanale-appuntamenti-r4glso",
+    "storage_bucket": "fanale-appuntamenti-r4glso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80545611289:android:fcf4e3a5976733197af488",
+        "android_client_info": {
+          "package_name": "com.mycompany.fanaleappuntamenti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDrHMgnT1dgx3LClmTOJbJzZNjHWDZd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
